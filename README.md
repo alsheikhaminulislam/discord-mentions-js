@@ -12,7 +12,7 @@ Easily extract a member, role, or channel from a Discord mention using [Discord.
 
 ## Usage
 ```js
-const getMention = require('discord-mentions');
+const getMention = require('@deathinside/discord-mentions-js');
 
 var member = getMention('<@!189855563893571595>', someGuild).member;
 // Expected: GuildMember

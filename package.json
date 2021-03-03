@@ -1,0 +1,18 @@
+{
+  "name": "discord-mentions-js",
+  "version": "1.0.0",
+  "description": "Easily extract a member, role, or channel from a Discord mention.",
+  "main": "index.js",
+  "repository": "alsheikhaminulislam/discord-mentions-js",
+  "keywords": [
+    "discord",
+    "discord.js",
+    "mention",
+    "mentions"
+  ],
+  "author": "Al Sheikh Aminul Islam <alsheikhaminulislam@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "@deathinside/discord-mentions-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easily extract a member, role, or channel from a Discord mention.",
   "main": "index.js",
   "repository": "alsheikhaminulislam/discord-mentions-js",
